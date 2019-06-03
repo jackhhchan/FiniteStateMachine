@@ -5,6 +5,7 @@ The purpose of this repo is to understand how finite state machines work.
 source: https://www.python-course.eu/finite_state_machine.php
 
 How it works:
+
 Setting up the machine
   1. define a number of states -- (optionally) with a transition function.
      
@@ -23,6 +24,7 @@ Setting up the machine
   
   4. set the start state.
   
+
 
 Running the machine
   1. define a array of input elements. (e.g. sequence of strings or a sequence of characters i.e. a string)
