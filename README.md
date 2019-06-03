@@ -2,6 +2,7 @@
 A simple implementation of the finite state machine.
 
 The purpose of this repo is to understand how finite state machines work.
+
 source: https://www.python-course.eu/finite_state_machine.php
 
 How it works:
